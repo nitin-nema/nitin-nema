@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nitin-nema
-- 👀 I’m interested in React/Redux/Typescript/Javascript, Java/Spring coding.
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in React/Redux/Typescript/Javascript, Java/Spring Boot, Python coding.
+- 🌱 I’m currently working on Gen AI, RAG, Agentic AI 
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me out at - nitinnema89@gmail.com
 
