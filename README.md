@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @nitin-nema
-- 👀 I’m interested in React/Redux/Typescript/Javascript, Java/Spring Boot, Python coding.
-- 🌱 I’m currently working on Gen AI, RAG, Agentic AI 
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 Reach me out at - nitinnema89@gmail.com
+# Nitin Nema
+### Full-Stack Engineer | Java & Spring Boot | React | Cloud & AI Applications
 
-<!---
-nitin-nema/nitin-nema is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build web applications and backend services, and explore practical applications of Generative AI, Retrieval-Augmented Generation (RAG), and agentic workflows.
+
+**Technical focus**
+- **Backend:** Java, Spring Boot, Node.js, REST APIs
+- **Frontend:** React, Redux, JavaScript, TypeScript
+- **AI:** Generative AI, RAG, agentic workflows
+- **Engineering:** API design, testing, clean architecture, Git
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform
+
+### Featured Projects
+- **Enterprise RAG Assistant** — document retrieval, grounded responses and access control.
+- **AI-Assisted Exception Triage** — exception analysis, suggested remediation and human approval.
+- **AWS Infrastructure Blueprint** — reusable Terraform modules and automated validation.
+
+### Engineering Principles
+- Build practical, maintainable software.
+- Document architectural decisions and trade-offs.
+- Test critical workflows and automate quality checks.
+- Make projects reproducible and easy to run.
+
+### Collaboration
+Interested in collaborating on full-stack applications, cloud engineering and applied AI projects.
+
+[GitHub Repositories](https://github.com/nitin-nema?tab=repositories)
